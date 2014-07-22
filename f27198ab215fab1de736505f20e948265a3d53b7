@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_8c96c992",
+        "filename": "LICENSE",
+        "patchSetId": 1
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 16
+      },
+      "writtenOn": "2014-07-22T20:45:12Z",
+      "side": 1,
+      "message": "You might want to actually update this part. ;)",
+      "revId": "f27198ab215fab1de736505f20e948265a3d53b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
