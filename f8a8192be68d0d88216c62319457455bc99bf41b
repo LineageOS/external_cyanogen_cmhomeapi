@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_e872bb7b",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/provider/CmHomeContentProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 455,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-08-07T11:09:38Z",
+      "side": 1,
+      "message": "You\u0027re now compressing the bitmap to png twice before caching.  Consider changing this to only compress once.",
+      "revId": "f8a8192be68d0d88216c62319457455bc99bf41b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
