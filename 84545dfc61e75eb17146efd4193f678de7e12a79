@@ -16,6 +16,24 @@
       "revId": "84545dfc61e75eb17146efd4193f678de7e12a79",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_08bc4f04",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/provider/CmHomeContentProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-07T10:13:17Z",
+      "side": 1,
+      "message": "Yep, fixed in PS 2.",
+      "parentUuid": "9a061dce_68d06b54",
+      "revId": "84545dfc61e75eb17146efd4193f678de7e12a79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
