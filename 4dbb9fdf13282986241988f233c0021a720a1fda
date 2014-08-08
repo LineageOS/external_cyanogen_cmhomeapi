@@ -16,6 +16,24 @@
       "revId": "4dbb9fdf13282986241988f233c0021a720a1fda",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_32825d53",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/provider/CmHomeContentProvider.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 469,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-08T10:36:20Z",
+      "side": 1,
+      "message": "Wow, thanks, I should have recognized that. I had it that way originally and changed it before pushing. I\u0027ll fix that in a new change since this was merged.",
+      "parentUuid": "9a061dce_923ec9b6",
+      "revId": "4dbb9fdf13282986241988f233c0021a720a1fda",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
