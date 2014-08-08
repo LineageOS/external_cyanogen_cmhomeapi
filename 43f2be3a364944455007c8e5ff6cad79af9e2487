@@ -16,6 +16,24 @@
       "revId": "43f2be3a364944455007c8e5ff6cad79af9e2487",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_dfaa0a70",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/provider/CmHomeContentProvider.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 431,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-08T06:40:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a061dce_3f5ea6e9",
+      "revId": "43f2be3a364944455007c8e5ff6cad79af9e2487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
