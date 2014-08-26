@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_8add0d73",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardData.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:22:30Z",
+      "side": 1,
+      "message": "I don\u0027t think java lang needs to be imported... IDE issue?",
+      "revId": "c102d96e2fddba14e9dfc1a033531b980e098c7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_6ada317a",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardDataImage.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:22:30Z",
+      "side": 1,
+      "message": "Typo - CardDataImage?",
+      "revId": "c102d96e2fddba14e9dfc1a033531b980e098c7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
