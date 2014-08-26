@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_2a467923",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:45:16Z",
+      "side": 1,
+      "message": "maybe you should define the flags as a constant.",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_ea3be19a",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:45:16Z",
+      "side": 1,
+      "message": "Did you want to commit this?",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_4a41350b",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:45:16Z",
+      "side": 1,
+      "message": "Did you want to commit this?",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_8a4b4d2b",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 202,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:45:16Z",
+      "side": 1,
+      "message": "return true; // why continue the loop?",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
