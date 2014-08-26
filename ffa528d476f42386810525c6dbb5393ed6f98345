@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_2acf99b1",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardData.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 267,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:41:22Z",
+      "side": 1,
+      "message": "publishing a the data card will cause the related image to be unpublished?",
+      "revId": "ffa528d476f42386810525c6dbb5393ed6f98345",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_aabba90d",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 423,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:41:22Z",
+      "side": 1,
+      "message": "wrap",
+      "revId": "ffa528d476f42386810525c6dbb5393ed6f98345",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
