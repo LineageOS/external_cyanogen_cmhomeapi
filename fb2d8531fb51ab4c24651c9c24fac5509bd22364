@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_ca5545c7",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:49:27Z",
+      "side": 1,
+      "message": "please retab this file.\n\nCode samples are a good idea :)",
+      "revId": "fb2d8531fb51ab4c24651c9c24fac5509bd22364",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_aa5289db",
+        "filename": "src/main/java/org/cyanogenmod/launcher/cardprovider/CmHomeApiCardProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-26T15:49:27Z",
+      "side": 1,
+      "message": "sorry, i know it\u0027s not this patch, but line wrap.",
+      "revId": "fb2d8531fb51ab4c24651c9c24fac5509bd22364",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
