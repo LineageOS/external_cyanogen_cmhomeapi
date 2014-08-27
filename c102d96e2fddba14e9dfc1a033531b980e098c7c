@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a1b2928_caf2659a",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardData.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:26:47Z",
+      "side": 1,
+      "message": "Yep, IntelliJ keeps doing that... haven\u0027t figured out why. Removed in PS 2.",
+      "parentUuid": "7a1b2928_8add0d73",
+      "revId": "c102d96e2fddba14e9dfc1a033531b980e098c7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a1b2928_6ada317a",
         "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardDataImage.java",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2014-08-26T15:22:30Z",
       "side": 1,
       "message": "Typo - CardDataImage?",
+      "revId": "c102d96e2fddba14e9dfc1a033531b980e098c7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_0a2bbdec",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardDataImage.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:26:47Z",
+      "side": 1,
+      "message": "Whoops.. yep. Fixed in PS 2.",
+      "parentUuid": "7a1b2928_6ada317a",
       "revId": "c102d96e2fddba14e9dfc1a033531b980e098c7c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
