@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a1b2928_2a3af936",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardData.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 267,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:32:30Z",
+      "side": 1,
+      "message": "Yes, the idea is that you can make all the changes you want in memory and they will only be persisted when you call publish on a CardData or CardDataImage. Since you\u0027ve removed a CardDataImage by calling this method, this change must be persisted when the CardData is published. \n\nThis happens lazily, so you can make other changes before publishing. Therefore, any removed images that are now orphaned from their CardData parents will be held in mRemovedImages until the unpublish occurs, at which point all of those images will also be unpublished.",
+      "parentUuid": "7a1b2928_2acf99b1",
+      "revId": "ffa528d476f42386810525c6dbb5393ed6f98345",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a1b2928_aabba90d",
         "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2014-08-26T15:41:22Z",
       "side": 1,
       "message": "wrap",
+      "revId": "ffa528d476f42386810525c6dbb5393ed6f98345",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_8a3fcd24",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 423,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:32:30Z",
+      "side": 1,
+      "message": "Fixed in PS 3.",
+      "parentUuid": "7a1b2928_aabba90d",
       "revId": "ffa528d476f42386810525c6dbb5393ed6f98345",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
