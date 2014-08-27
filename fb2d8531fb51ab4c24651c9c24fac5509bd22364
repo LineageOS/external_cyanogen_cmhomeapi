@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a1b2928_8a6d0d35",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:44:35Z",
+      "side": 1,
+      "message": "Done. I am using some other markdown editor program that keeps adding these whitespaces.",
+      "parentUuid": "7a1b2928_ca5545c7",
+      "revId": "fb2d8531fb51ab4c24651c9c24fac5509bd22364",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a1b2928_aa5289db",
         "filename": "src/main/java/org/cyanogenmod/launcher/cardprovider/CmHomeApiCardProvider.java",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2014-08-26T15:49:27Z",
       "side": 1,
       "message": "sorry, i know it\u0027s not this patch, but line wrap.",
+      "revId": "fb2d8531fb51ab4c24651c9c24fac5509bd22364",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_6a6a311c",
+        "filename": "src/main/java/org/cyanogenmod/launcher/cardprovider/CmHomeApiCardProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:44:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a1b2928_aa5289db",
       "revId": "fb2d8531fb51ab4c24651c9c24fac5509bd22364",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
