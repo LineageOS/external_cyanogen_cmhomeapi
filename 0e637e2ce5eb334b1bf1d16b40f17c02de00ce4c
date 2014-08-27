@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a1b2928_8a26ad14",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:38:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a1b2928_2a467923",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a1b2928_ea3be19a",
         "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2014-08-26T15:45:16Z",
       "side": 1,
       "message": "Did you want to commit this?",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_6a235106",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:38:01Z",
+      "side": 1,
+      "message": "Nope, thanks. Left over from debugging, that was a mistake.",
+      "parentUuid": "7a1b2928_ea3be19a",
       "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "7a1b2928_aa1d69bf",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:38:01Z",
+      "side": 1,
+      "message": "Nope, thanks. Left over from debugging, that was a mistake.",
+      "parentUuid": "7a1b2928_4a41350b",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a1b2928_8a4b4d2b",
         "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
         "patchSetId": 3
@@ -64,6 +118,24 @@
       "writtenOn": "2014-08-26T15:45:16Z",
       "side": 1,
       "message": "return true; // why continue the loop?",
+      "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_0a79fdfc",
+        "filename": "src/main/java/org/cyanogenmod/launcher/home/api/CMHomeApiManager.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 202,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-08-27T05:38:01Z",
+      "side": 1,
+      "message": "Good thinking. Fixed.",
+      "parentUuid": "7a1b2928_8a4b4d2b",
       "revId": "0e637e2ce5eb334b1bf1d16b40f17c02de00ce4c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
