@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_4b465424",
+        "filename": "src/main/java/org/cyanogenmod/launcher/cardprovider/ICardProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-08-29T08:16:21Z",
+      "side": 1,
+      "message": "unused import?",
+      "revId": "77ac492fc43bd883198467cbbba8935188a170af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
