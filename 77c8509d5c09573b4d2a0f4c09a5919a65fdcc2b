@@ -16,6 +16,24 @@
       "revId": "77c8509d5c09573b4d2a0f4c09a5919a65fdcc2b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_1e491860",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardData.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-09-18T11:24:57Z",
+      "side": 0,
+      "message": "I will admit I have not actually measured the effect before or after this change. However, I have never noticed any out of memory exceptions or performance drains with or without this patch. I added the WeakReference as defensive code to guard against unnecessary memory usage. But this was flawed because I can\u0027t guarantee that the reference will still be there when it is needed. So, it needs to be a strong reference.",
+      "parentUuid": "7a1b2928_7e4dac71",
+      "revId": "77c8509d5c09573b4d2a0f4c09a5919a65fdcc2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
