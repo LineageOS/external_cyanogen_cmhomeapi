@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_5e527014",
+        "filename": "sdk/src/org/cyanogenmod/launcher/home/api/cards/CardData.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 806,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-09-18T11:01:33Z",
+      "side": 1,
+      "message": "I guess it should be ok as long as we are doing this.",
+      "revId": "65324c05db3d2cba5d1b80267b2525bd5955c9a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
