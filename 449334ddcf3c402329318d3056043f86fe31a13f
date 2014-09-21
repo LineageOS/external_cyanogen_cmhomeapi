@@ -16,6 +16,24 @@
       "revId": "449334ddcf3c402329318d3056043f86fe31a13f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_9eb52533",
+        "filename": "src/main/java/org/cyanogenmod/launcher/cardprovider/CmHomeApiCardProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-09-21T10:18:11Z",
+      "side": 1,
+      "message": "The caller will ignore the card if it is null. It is expected that not all CardData objects will result in an actual CmCard subclass if one cannot be generated from it (due to incomplete or invalid data).\n\nI also have uploaded one other check downstream from this method call in PS 2.",
+      "parentUuid": "7a1b2928_be1e2161",
+      "revId": "449334ddcf3c402329318d3056043f86fe31a13f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
