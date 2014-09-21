@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_be1e2161",
+        "filename": "src/main/java/org/cyanogenmod/launcher/cardprovider/CmHomeApiCardProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 10631
+      },
+      "writtenOn": "2014-09-21T06:45:21Z",
+      "side": 1,
+      "message": "How does the caller handle the return of the null?",
+      "revId": "449334ddcf3c402329318d3056043f86fe31a13f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
